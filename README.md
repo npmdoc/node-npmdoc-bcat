@@ -1,6 +1,6 @@
 # npmdoc-bcat
 
-#### api documentation for  [bcat (v1.1.8)](https://github.com/kessler/node-bcat)  [![npm package](https://img.shields.io/npm/v/npmdoc-bcat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bcat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bcat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bcat)
+#### basic api documentation for  [bcat (v1.1.8)](https://github.com/kessler/node-bcat)  [![npm package](https://img.shields.io/npm/v/npmdoc-bcat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bcat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bcat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bcat)
 
 #### A pipe to browser utility
 
